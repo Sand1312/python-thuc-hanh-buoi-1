@@ -6,7 +6,7 @@ Day la code cho buoi thuc hanh thu 1
 | ---------------- | -------------------- |
 | [Problem 3B.01]      | [3B.01.py](https://github.com/Sand1312/python-thuc-hanh-buoi-1/blob/main/3B.01.py) |
 | [Problem 2]      | [bai2.cpp]() |
-| [Problem 3]      | [bai3.cpp]() |
+| [Problem 4B.14]      | [4B.14.py](https://github.com/Sand1312/python-thuc-hanh-buoi-1/blob/main/4B.14.py) |
 | [Problem 5B.05]      | [5B.05.py](https://github.com/Sand1312/python-thuc-hanh-buoi-1/blob/main/5B.05.py) |
 | [Problem 5]      | [bai5.cpp]() |
 | [Problem 6]      | [bai6.cpp]() |
