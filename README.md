@@ -4,7 +4,7 @@ Day la code cho buoi thuc hanh thu 1
 
 | Name             | Solution             |
 | ---------------- | -------------------- |
-| [Problem 1]      | [bai1.cpp]() |
+| [Problem 3B.01]      | [3b.01.py](https://github.com/Sand1312/python-thuc-hanh-buoi-1/blob/main/3B.01.py) |
 | [Problem 2]      | [bai2.cpp]() |
 | [Problem 3]      | [bai3.cpp]() |
 | [Problem 4]      | [bai4.cpp]() |
