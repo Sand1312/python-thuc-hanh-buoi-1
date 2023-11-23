@@ -10,4 +10,5 @@ Day la code cho buoi thuc hanh thu 1
 | [Problem 5B.05]      | [5B.05.py](https://github.com/Sand1312/python-thuc-hanh-buoi-1/blob/main/5B.05.py) |
 | [Problem 5B.11]      | [5B.11.py](https://github.com/Sand1312/python-thuc-hanh-buoi-1/blob/main/5B.11.py) |
 | [Problem 6B.03]      | [6B.03.py](https://github.com/Sand1312/python-thuc-hanh-buoi-1/blob/main/6B.03.py) |
+| [Problem 7B.04]      | [7B.04.py](https://github.com/Sand1312/python-thuc-hanh-buoi-1/blob/main/7B.04.py) |
 
