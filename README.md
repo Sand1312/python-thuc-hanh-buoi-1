@@ -9,5 +9,5 @@ Day la code cho buoi thuc hanh thu 1
 | [Problem 4B.14]      | [4B.14.py](https://github.com/Sand1312/python-thuc-hanh-buoi-1/blob/main/4B.14.py) |
 | [Problem 5B.05]      | [5B.05.py](https://github.com/Sand1312/python-thuc-hanh-buoi-1/blob/main/5B.05.py) |
 | [Problem 5B.11]      | [5B.11.py](https://github.com/Sand1312/python-thuc-hanh-buoi-1/blob/main/5B.11.py) |
-| [Problem 6]      | [bai6.cpp]() |
+| [Problem 6B.03]      | [6B.03.py](https://github.com/Sand1312/python-thuc-hanh-buoi-1/blob/main/6B.03.py) |
 
